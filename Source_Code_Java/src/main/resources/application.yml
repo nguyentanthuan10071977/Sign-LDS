@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: slds-api
+  jackson:
+    default-property-inclusion: non_null
